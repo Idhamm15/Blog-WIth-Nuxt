@@ -28,6 +28,9 @@ pnpm install
 
 # yarn
 yarn install
+
+# bun
+bun install
 ```
 
 ## Development Server
@@ -43,6 +46,9 @@ pnpm run dev
 
 # yarn
 yarn dev
+
+# bun
+bun run dev
 ```
 
 
@@ -59,6 +65,9 @@ pnpm run build
 
 # yarn
 yarn build
+
+# bun
+bun run build
 ```
 
 Locally preview production build:
@@ -72,6 +81,9 @@ pnpm run preview
 
 # yarn
 yarn preview
+
+# bun
+bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
